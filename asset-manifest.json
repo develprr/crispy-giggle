@@ -1,16 +1,16 @@
 {
-  "main.css": "/develprr/crispy-giggle/static/css/main.f0c6ba41.chunk.css",
-  "main.js": "/develprr/crispy-giggle/static/js/main.2b4f9e35.chunk.js",
-  "main.js.map": "/develprr/crispy-giggle/static/js/main.2b4f9e35.chunk.js.map",
-  "static/js/1.dbf16a7a.chunk.js": "/develprr/crispy-giggle/static/js/1.dbf16a7a.chunk.js",
-  "static/js/1.dbf16a7a.chunk.js.map": "/develprr/crispy-giggle/static/js/1.dbf16a7a.chunk.js.map",
-  "static/js/2.b75323fd.chunk.js": "/develprr/crispy-giggle/static/js/2.b75323fd.chunk.js",
-  "static/js/2.b75323fd.chunk.js.map": "/develprr/crispy-giggle/static/js/2.b75323fd.chunk.js.map",
-  "runtime~main.js": "/develprr/crispy-giggle/static/js/runtime~main.762f1978.js",
-  "runtime~main.js.map": "/develprr/crispy-giggle/static/js/runtime~main.762f1978.js.map",
-  "static/media/logo.svg": "/develprr/crispy-giggle/static/media/logo.06e73328.svg",
-  "static/css/main.f0c6ba41.chunk.css.map": "/develprr/crispy-giggle/static/css/main.f0c6ba41.chunk.css.map",
-  "index.html": "/develprr/crispy-giggle/index.html",
-  "precache-manifest.2c8b517ba3188d309875bc7260a3ba98.js": "/develprr/crispy-giggle/precache-manifest.2c8b517ba3188d309875bc7260a3ba98.js",
-  "service-worker.js": "/develprr/crispy-giggle/service-worker.js"
+  "files": {
+    "main.css": "/crispy-giggle/static/css/main.073c9b0a.css",
+    "main.js": "/crispy-giggle/static/js/main.2edf505d.js",
+    "static/js/787.58cd1dce.chunk.js": "/crispy-giggle/static/js/787.58cd1dce.chunk.js",
+    "static/media/logo.svg": "/crispy-giggle/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/crispy-giggle/index.html",
+    "main.073c9b0a.css.map": "/crispy-giggle/static/css/main.073c9b0a.css.map",
+    "main.2edf505d.js.map": "/crispy-giggle/static/js/main.2edf505d.js.map",
+    "787.58cd1dce.chunk.js.map": "/crispy-giggle/static/js/787.58cd1dce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2edf505d.js"
+  ]
 }
